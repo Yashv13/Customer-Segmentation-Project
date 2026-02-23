@@ -137,6 +137,17 @@ Deploy model with Flask
 
 Automate dashboard updates
 
+## 📌 Recommended Business Actions
+
+Based on customer segmentation:
+
+- **Champions**: Offer loyalty rewards and early access to new products to maintain engagement  
+- **Loyal Customers**: Provide personalized recommendations to increase purchase frequency  
+- **At-Risk Customers**: Launch targeted retention campaigns and limited-time discounts  
+- **Lost Customers**: Implement win-back strategies through email marketing or special offers  
+
+These strategies can help reduce churn, improve retention rates, and maximize customer lifetime value.
+
 👤 Author
 
 Yash Vora

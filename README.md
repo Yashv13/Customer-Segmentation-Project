@@ -26,6 +26,19 @@ Visualize customer segments
 
 Build an interactive Power BI Dashboard for insights
 
+## 📉 Retention & Revenue Insights
+
+- Identified ₹539K potential revenue at churn risk  
+- Detected 1000+ customers likely to churn  
+- Champions segment contributes highest revenue (~₹4.4M)  
+- Lost & At-Risk segments show churn probability > 0.4  
+
+This segmentation enables:
+- Targeted retention campaigns  
+- High-value customer protection  
+- Data-driven marketing strategies  
+- Improved customer lifetime value (CLV)
+
 🧰 Tools & Technologies Used
 
 Python
@@ -96,21 +109,6 @@ The Power BI dashboard provides:
 - Revenue contribution by segment  
 - Customer retention patterns  
 - RFM score visualization  
-
-
-## 📉 Retention & Revenue Insights
-
-- Identified ₹539K potential revenue at churn risk  
-- Detected 1000+ customers likely to churn  
-- Champions segment contributes highest revenue (~₹4.4M)  
-- Lost & At-Risk segments show churn probability > 0.4  
-
-This segmentation enables:
-- Targeted retention campaigns  
-- High-value customer protection  
-- Data-driven marketing strategies  
-- Improved customer lifetime value (CLV)
-
 
 ## 📷 Project Screenshots
 
